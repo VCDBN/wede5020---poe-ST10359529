@@ -1,0 +1,98 @@
+.body{
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+
+} 
+
+
+
+.back{
+    
+        background-image: url('Images/image_6483441.JPG');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    
+}
+    
+.header{
+
+    background-color: aqua;
+    padding: 10px;
+}
+
+
+
+/* style the top nav */
+.topnav{
+
+    overflow: hidden;
+    background-color: black;
+    
+}
+
+
+
+.topnav a{
+
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 20px 125px;
+    text-decoration: none;
+}
+
+
+.topnav a:hover{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+/*style the middle class*/
+
+.column.middle{ padding: 5px;
+    float: left;
+    width: 33.33%;
+
+
+}
+
+
+/* this code is used to style the buttom*/
+.form-button{
+    border-radius: 400px;
+    height: 50px;
+    border: 3px solid black;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    
+}
+
+
+
+/* the code below is styling my fotter (the bar at the bottom) */
+.footer{
+    background-color: black;
+    padding: 6px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+@media (300px <= width <=600px) {
+   
+
+    p{
+        font-size: 30px;
+
+    }
+
+    li{
+        font-size: 30px;
+    }
+}
+
+
+

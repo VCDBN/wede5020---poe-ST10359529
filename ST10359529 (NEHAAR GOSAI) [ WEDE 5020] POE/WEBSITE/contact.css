@@ -1,0 +1,103 @@
+.header{
+
+    background-color: aqua;
+    padding: 10px;
+}
+
+/* style the top nav*/
+
+
+.topnav{
+
+    overflow: hidden;
+    background-color:rgb(0, 0, 0);
+    
+
+}
+
+.form-container {
+    width: 100%;
+    margin: auto;
+    padding: 2%;
+
+}
+
+label {
+    display: block;
+    margin-top: 25px;
+    font-size: 1rem;
+    color: white;
+}
+
+i{
+    
+    color: white;
+}
+
+.topnav a{
+
+    float: left;
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    padding: 20px 125px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+
+/*style the middle class*/
+
+.column.middle{ padding: 10px;
+    height: 70vh;
+    width: 70vw;
+
+
+}
+
+
+
+.footer{
+    background-color: black;
+    padding: 7px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.topnan{
+    color: white; 
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+i{
+    color: white;
+}
+
+.errors{
+    color: whitesmoke;
+}
+
+   
+
+    

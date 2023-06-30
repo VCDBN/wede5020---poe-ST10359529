@@ -1,0 +1,75 @@
+.header{
+
+    background-color: aqua;
+    padding: 10px;
+}
+
+/* style the top nav*/
+
+
+.topnav{
+
+    overflow: hidden;
+    background-color:black;
+
+}
+
+/* style the top nav*/
+
+.topnav a{
+
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 20px 125px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+}
+
+
+/*style the middle class*/
+
+.column.middle{ padding: 10px;
+    height: 70vh;
+    width: 70vw;
+
+
+}
+
+
+
+
+.footer{
+    background-color: black;
+    padding: 7px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+
+
